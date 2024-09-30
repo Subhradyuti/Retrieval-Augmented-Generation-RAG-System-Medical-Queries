@@ -1,5 +1,6 @@
 # Retrieval-Augmented-Generation-RAG-System-Medical-Queries
 This repository contains the code and documentation for a Retrieval Augmented Generation (RAG) system designed to answer medical queries. The system leverages vector stores to fetch relevant information chunks and advanced language models (LLMs) to provide accurate, relevant responses. In cases where the vector store doesn't provide enough relevant data, the system performs a web search to retrieve additional information.
+![image](https://github.com/user-attachments/assets/8d8812da-9f88-40fc-b200-81ffcd27e705)
 
 ## Key Features
 1. Vector Store Integration: Uses a vector store (ChromaDB) to retrieve relevant medical information chunks based on user queries.
